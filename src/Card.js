@@ -1,3 +1,6 @@
+import React from 'react';
+function Card(){
+return(
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-4">
@@ -26,3 +29,6 @@
     </div>
   </div>
 </div>
+);
+}
+export default Card;
