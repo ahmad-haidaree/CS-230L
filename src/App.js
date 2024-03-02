@@ -1,7 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import  './Navbar';
-import  './Card';
+import NavBar from './Navbar';
+import Card from './Card';
+import React from 'react';
 
 
 
