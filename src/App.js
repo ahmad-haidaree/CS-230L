@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import NavBar from './Navbar';
-import Card from './Card';
+import  './Navbar';
+import  './Card';
 
 
 
